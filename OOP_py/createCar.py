@@ -1,3 +1,5 @@
+from classes import *
+
 def showInfoCar(point): #Функция
     if point == 1:
         car = Car()
